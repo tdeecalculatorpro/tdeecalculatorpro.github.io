@@ -4,7 +4,7 @@ layout: post
 author: techidn
 categories: 
 - Tutorial
-image: assets/images/Cover How to use text to speech on Tiktok.jpg
+image: https://techidn.github.io/assets/images/Cover%20How%20to%20use%20text%20to%20speech%20on%20Tiktok.jpg
 featured: false
 ---
 
