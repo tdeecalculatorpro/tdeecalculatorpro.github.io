@@ -5,7 +5,7 @@ author: techidn
 categories: 
 - Apps
 image: https://techidn.github.io/assets/images/Cover latest features of google translate.jpg
-featured: false
+featured: true
 ---
 
 ## Introduction
@@ -46,3 +46,5 @@ Using these features is simple:
 ## Conclusion
 
 Google Translate's latest features have made language translation more accessible and convenient than ever before. Whether you're traveling, communicating with international colleagues, or learning a new language, these features provide the tools you need for seamless translation. By embracing these advancements, users can break down language barriers and connect with people and information from around the world, fostering greater understanding and collaboration in our global society.
+
+Reference: [https://karinov.co.id/download-suara-google-translate/](https://karinov.co.id/download-suara-google-translate/)
