@@ -48,3 +48,5 @@ Using text to speech on TikTok is a user-friendly process. Here's how you can ut
 ## Conclusion
 
 Text to speech on TikTok is a versatile and engaging feature that allows users to add voice to their videos, making them more accessible and dynamic. Whether you're narrating a story, providing commentary, or adding character voices, TTS offers a range of possibilities to enhance your TikTok content. By following the steps and tips outlined in this article, you can effectively utilize TTS to express yourself creatively and connect with your TikTok audience in new and exciting ways.
+
+**Reference**: [Download Sound TikTok to WhatsApp](https://www.voiceoftext.com/2023/09/download-sound-tiktok-ke-wa-lewat-mp3.html)
