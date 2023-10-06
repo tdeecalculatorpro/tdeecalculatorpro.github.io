@@ -41,7 +41,7 @@ Website builders like WordPress can utilize Sound of Text to create audio versio
 
 ## Social Media
 
-Sound of Text-generated audio can be used in social media marketing campaigns, making content more dynamic and accessible on platforms like Facebook, Twitter, or Instagram.
+Sound of Text-generated audio can be used in social media marketing campaigns, making content more dynamic and accessible on platforms like Facebook, Twitter, Instagram, or even [TikTok](https://soundtext.github.io/text-to-speech-on-tiktok/).
 
 ## Language Learning Apps
 
