@@ -5,7 +5,7 @@ author: techidn
 categories: 
 - Apps
 image: https://techidn.github.io/assets/images/Cover latest features of google translate.jpg
-featured: true
+featured: false
 ---
 
 ## Introduction
