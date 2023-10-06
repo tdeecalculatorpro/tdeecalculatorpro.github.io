@@ -4,7 +4,7 @@ layout: post
 author: techidn
 categories: 
 - Apps
-image: https://techidn.github.io/assets/images/wa_ringtone.jpg
+image: https://soundtext.github.io/assets/images/wa_ringtone.jpg
 featured: true
 ---
 
