@@ -71,3 +71,6 @@ The app's simple functionality makes it accessible to all users:
 **Sound of Text** is a fantastic tool for those who need a high-quality text-to-speech service. Whether you’re a language learner, content creator, or simply someone who enjoys playing around with TTS voices, this app delivers an easy, efficient, and enjoyable experience. Plus, its free accessibility makes it an excellent alternative to paid TTS software.
 
 For anyone looking to explore multilingual TTS technology, **Sound of Text** is definitely worth trying! Download the app now and start converting text into speech effortlessly!
+
+### References and Download
+- [https://play.google.com/store/apps/details?id=com.soundof.text99](https://play.google.com/store/apps/details?id=com.soundof.text99)
