@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Review Sound of Text App from Google Play"
+title:  "Review Sound of Text Apk from Google Play"
 date:   2025-02-24 12:00:00 +1100
 categories: 
 - Review
-image: https://techidn.github.io/assets/images/Pilihan Bahasa di Sound of Text Apk.jpg
+image: https://soundtext.github.io/assets/images/Pilihan Bahasa di Sound of Text Apk.jpg
 featured: true
 ---
 
@@ -34,7 +34,7 @@ This is an excellent tool for students, anime fans, and anyone looking to enhanc
 
 # Sundanese: Preserving Local Languages in the Digital Era
 
-![sound of text sunda](https://techidn.github.io/assets/images/Sound%20of%20Text%20Bahasa%20Sunda.jpg)
+![sound of text sunda](https://soundtext.github.io/assets/images/Sound%20of%20Text%20Bahasa%20Sunda.jpg)
 
 The app also supports **Sundanese TTS**, which plays a crucial role in promoting regional languages in the digital space. With this feature, users can:
 - Convert Sundanese text into speech for learning and communication.
