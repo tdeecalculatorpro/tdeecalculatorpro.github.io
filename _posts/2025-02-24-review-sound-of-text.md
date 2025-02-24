@@ -2,7 +2,10 @@
 layout: post
 title:  "Review Sound of Text App from Google Play"
 date:   2025-02-24 12:00:00 +1100
-categories: Review
+categories: 
+- Review
+image: https://techidn.github.io/assets/images/Pilihan Bahasa di Sound of Text Apk.jpg
+featured: true
 ---
 
 In an era where digital tools are becoming increasingly sophisticated, **Sound of Text**, developed by Karinov, offers a simple yet powerful text-to-speech (TTS) solution. This application allows users to convert text into natural-sounding speech, making it a valuable tool for language learners, content creators, and those who need an efficient TTS service.
@@ -30,6 +33,9 @@ For those studying Japanese, particularly those preparing for the **Japanese Lan
 This is an excellent tool for students, anime fans, and anyone looking to enhance their Japanese language skills.
 
 # Sundanese: Preserving Local Languages in the Digital Era
+
+![sound of text sunda](https://techidn.github.io/assets/images/Sound%20of%20Text%20Bahasa%20Sunda.jpg)
+
 The app also supports **Sundanese TTS**, which plays a crucial role in promoting regional languages in the digital space. With this feature, users can:
 - Convert Sundanese text into speech for learning and communication.
 - Create voice-based content in Sundanese.
