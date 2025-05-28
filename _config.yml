@@ -15,7 +15,7 @@ authors:
     email: soundtext@emzeth.com
     twitter: ''
     description: "Convert text into speech with Google speech synthesis engine"
-    web: "https://soundtext.github.io"
+    web: "https://silampari.github.io"
     gravatar: 0397aa39d5259d69961beaf1155fa085
 plugins:
   - jekyll-paginate
