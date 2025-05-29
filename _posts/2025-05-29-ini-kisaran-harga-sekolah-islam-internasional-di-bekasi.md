@@ -59,7 +59,6 @@ Dalam memilih sekolah Islam di Bekasi, orang tua perlu mempertimbangkan beberapa
 
 Banyak sekolah menawarkan sistem diskon atau keringanan biaya untuk keluarga yang memiliki lebih dari satu anak atau alumni internal. Sebaiknya orang tua juga menanyakan detail komponen biaya untuk menghindari biaya tersembunyi di kemudian hari.
 
-##
 Kisaran harga sekolah Islam di Bekasi sangat bervariasi, mulai dari Rp7,75 juta hingga Rp40 juta untuk biaya awal, dengan SPP bulanan berkisar antara Rp400.000 hingga Rp2,25 juta. Keberagaman pilihan ini memungkinkan setiap keluarga menemukan sekolah Islam yang sesuai dengan kemampuan finansial dan ekspektasi pendidikan untuk anak-anak mereka.
 
 Investasi pendidikan Islam berkualitas di Bekasi terbukti lebih ekonomis dibandingkan Jakarta, namun tetap menawarkan standar pendidikan yang tidak kalah baik. Dengan perencanaan finansial yang matang, setiap keluarga dapat memberikan pendidikan Islam terbaik untuk generasi penerus bangsa.
