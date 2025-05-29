@@ -50,5 +50,4 @@ Keunggulan Al Azhar Rawamangun terletak pada kelengkapan program pendidikan dari
 
 Komitmen sekolah tidak hanya terbatas pada peningkatan kecerdasan akademik, tetapi juga penguatan moral dan karakter siswa. Investasi pendidikan di Al Azhar Rawamangun berkisar antara Rp26 juta hingga Rp40 juta per tahun, mencerminkan kualitas pendidikan premium yang ditawarkan.
 
-##
 Kelima sekolah Islam berkurikulum internasional di DKI Jakarta ini menawarkan keunggulan masing-masing dalam mempersiapkan generasi Muslim yang berakhlak mulia dan kompetitif secara global. Pilihan sekolah sebaiknya disesuaikan dengan kebutuhan, preferensi pendidikan, dan kemampuan finansial keluarga untuk memastikan investasi pendidikan yang optimal bagi masa depan anak.
