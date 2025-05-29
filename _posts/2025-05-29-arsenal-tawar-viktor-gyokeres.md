@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Arsenal Tawar Viktor Gyokeres €70 Juta, Kirim Pejabat Klub Temui Agen Striker Sporting CP"
+title:  "Arsenal Tawar Viktor Gyokeres 70 Juta, Kirim Pejabat Klub Temui Agen Striker Sporting CP"
 date:   2025-05-29 12:00:00 +1100
 categories: 
-- Review
+- Olahraga
 image: https://soundtext.github.io/assets/images/gyokeres.jpg
 featured: true
 ---
@@ -25,4 +25,4 @@ Agen sang pemain kini disebut tengah mempersiapkan untuk menyampaikan tawaran te
 ## Siapa Viktor Gyokeres?
 
 Gyokeres tampil impresif musim ini bersama Sporting CP dan menjadi salah satu pencetak gol terbanyak di liga Portugal. Ketajamannya di depan gawang, serta kemampuannya beradaptasi dalam berbagai skema taktik, menjadikannya target menarik bagi sejumlah klub top Eropa. Arsenal melihat Gyokeres sebagai opsi ideal untuk memperkuat lini depan, seiring ambisi klub menantang gelar di musim mendatang.
-For anyone looking to explore multilingual TTS technology, **Sound of Text** is definitely worth trying! Download the app now and start converting text into speech effortlessly!
+
