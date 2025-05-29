@@ -18,7 +18,7 @@ Namun, tujuan mereka tidak hanya menyaksikan laga. Seusai pertandingan, para pej
 
 ## Detail Tawaran
 
-Dalam pertemuan tersebut, Arsenal menyampaikan tawaran senilai **€70 juta** (sekitar Rp1,2 triliun), ditambah sejumlah bonus berbasis performa. Selain itu, Gyokeres juga dikabarkan akan menerima **bonus penandatanganan sebesar €12 juta**, serta **kontrak dengan gaji tahunan mencapai €7 juta** jika setuju bergabung ke Emirates Stadium.
+Dalam pertemuan tersebut, Arsenal menyampaikan tawaran senilai **70 juta euro** (sekitar Rp1,2 triliun), ditambah sejumlah bonus berbasis performa. Selain itu, Gyokeres juga dikabarkan akan menerima **bonus penandatanganan sebesar 12 juta euro**, serta **kontrak dengan gaji tahunan mencapai 7 juta euro** jika setuju bergabung ke Emirates Stadium.
 
 Agen sang pemain kini disebut tengah mempersiapkan untuk menyampaikan tawaran tersebut kepada Presiden Sporting CP, Frederico Varandas.
 
