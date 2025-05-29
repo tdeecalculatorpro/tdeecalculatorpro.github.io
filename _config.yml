@@ -1,6 +1,6 @@
-name: Sound of Text Tutorial
-title: Sound of Text Tutorial
-description: Free Google text to speech documentation
+name: Harian Silampari Online
+title: Harian Silampari Online
+description: Terdepan menyajikan berita terbaru dan akurat seputar topik teknologi dan olahraga baik di level lokal hingga mancanegara.
 logo: assets/images/idnlogos.png
 favicon: assets/images/techico.png
 baseurl: ''
@@ -10,11 +10,11 @@ include:
 permalink: '/:title/'
 authors:
   techidn:
-    name: Soundtext
-    display_name: Soundtext
+    name: Zaid
+    display_name: Zaid
     email: soundtext@emzeth.com
     twitter: ''
-    description: "Convert text into speech with Google speech synthesis engine"
+    description: "Warta Berita Nasional Terpercaya"
     web: "http://hariansilampari.co.id/"
     gravatar: 0397aa39d5259d69961beaf1155fa085
 plugins:
