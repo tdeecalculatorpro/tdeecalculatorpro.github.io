@@ -4,7 +4,7 @@ title:  "Arsenal Tawar Viktor Gyokeres 70 Juta, Kirim Pejabat Klub Temui Agen St
 date:   2025-05-29 12:00:00 +1100
 categories: 
 - Olahraga
-image: https://soundtext.github.io/assets/images/gyokeres.jpg
+image: https://silampari.github.io/assets/images/gyokeres.jpg
 featured: true
 ---
 
