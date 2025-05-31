@@ -1,17 +1,19 @@
 ---
 layout: post
 title:  "How to Calculate Your TDEE"
-date:   2025-05-29 12:00:00 +1100
+date:   2025-05-30 12:00:00 +1100
 categories: 
 - Health
-image: assets/images/cover-sekolah-islam-internasional-di-bekasi.jpg
+image: assets/images/cover-how-to-calculate-tdee.jpg
 featured: true
 ---
 
-## Introduction
 If you’ve ever tried to lose weight, build muscle or eat better, you may have heard people mention TDEE. What does TDEE mean and why is it important? We’ll explain what TDEE is, show you how to calculate it and discuss why it matters for your body’s energy needs.
 
 ## What is TDEE?
+
+![components-of-tdee](/assets/images/components-of-tdee.jpg)
+
 TDEE is the total amount of energy you use in a day. It’s a guess at how many calories your body burns each day, considering all your movements such as sleeping, eating, walking, exercising and fidgeting.  
 When you know your TDEE, you can better answer questions about your daily calorie needs:
 
