@@ -1,8 +1,20 @@
-## Introduction
+---
+layout: post
+title:  "What is TDEE and Why Does it Matter?"
+date:   2025-05-31 12:00:00 +1100
+categories: 
+- Health
+image: assets/images/cover-what's-tdee.jpg
+featured: true
+---
+
 If you’ve ever wanted to lose weight, gain muscle or live healthier, you’ve likely heard the term TDEE. In other words, what is it? Most importantly, what makes this important?  
 TDEE stands for Total Daily Energy Expenditure and means the total number of calories you burn each day, whether you’re sleeping, eating, exercising or just living your life. Knowing your TDEE helps you control your weight and health better.
 
 ## What is TDEE, Really?
+
+![diet-plan](/assets/images/diet-plan.jpg)
+
 TDEE stands for your total daily energy needs. Your body needs a certain amount of energy (calories) every day to perform its tasks properly. This includes:  
 1. **Basal Metabolic Rate (BMR)** – the calories your body needs to keep your body functions going (like breathing and staying warm).  
 2. **Thermic Effect of Food (TEF)** – the energy needed for your body to process and use food.  
